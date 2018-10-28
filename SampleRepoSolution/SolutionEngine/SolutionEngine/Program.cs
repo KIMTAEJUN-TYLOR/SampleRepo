@@ -18,7 +18,7 @@ namespace SolutionEngine
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ConfigurationEditor());
-            
+            //TEST03
         }
     }
 }
