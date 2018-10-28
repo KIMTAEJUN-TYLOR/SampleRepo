@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SolutionEngine
 {
-    public partial class Form1 : Form
+    public partial class ConfigurationEditor : Form
     {
-        public Form1()
+        public ConfigurationEditor()
         {
             InitializeComponent();
         }

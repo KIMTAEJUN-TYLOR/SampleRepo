@@ -1,6 +1,6 @@
 ﻿namespace SolutionEngine
 {
-    partial class Form1
+    partial class ConfigurationEditor
     {
         /// <summary>
         /// Required designer variable.
